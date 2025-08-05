@@ -123,10 +123,8 @@ Google Chrome has aggressive caching, so when experiencing startup issues, clear
 Nudge the cache in Chrome following these steps:
 
 1. Open the developer tools (F12).
-2. Go to the settings (Cog icon).
-3. Ensure that "Disable cache (while DevTools is open)" is checked.
-4. Refresh the page, and the cache will be invalidated.
-5. Right-click the "reload" button next to your address bar and choose "Empty cache and hard reload".
+2. Right-click the "reload" button next to your address bar and choose "Empty cache and hard reload".
+<img width="279" height="170" alt="image" src="https://github.com/user-attachments/assets/aea01f7e-a624-43c4-abdf-f37653460747" />
 
 All caches and cookies have now been cleared from your Google Chrome browser. Generally, it is a good thing to do occasionally.
 
